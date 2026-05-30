@@ -53,6 +53,9 @@ Gosto de construir soluções escaláveis, automatizar pipelines de deploy e gar
   <a>
   <img src="https://img.shields.io/badge/ArgoCD-F34F29?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
   </a>
+  <a>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
+  </a>
 </p>
 
 <summary><b>🔒 Segurança (AppSec)</b></summary>
