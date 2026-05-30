@@ -9,7 +9,7 @@ Atualmente sou trabalhador-estudante e estou a terminar a licenciatura em **Enge
 
 Também tenho um grande interesse em DevOps, automação de infraestrutura, segurança de aplicações (AppSec) e Internet das Coisas (IoT).
 
-Gosto de construir soluções escaláveis, automatizar pipelines de deploy e garantir que o código nasce seguro. Atualmente, tenho facilidade em integrar metodologias ágeis em equipas utilizando Jira e Confluence para a gestão de projetos.
+Gosto de construir soluções escaláveis, automatizar pipelines de deploy e garantir que o código nasce seguro. Recentemente, comecei a explorar Jira e Confluence para a gestão de projetos.
 
 ---
 
