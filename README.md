@@ -20,46 +20,70 @@ Gosto de construir soluções escaláveis, automatizar pipelines de deploy e gar
 - 🐳 A orquestrar aplicações em ambientes contentorizados com **Docker** e **Kubernetes**.
 - 🔒 A realizar análises e testes de vulnerabilidades em código com o **OWASP ZAP**.
 - 💡 A desenvolver projetos paralelos de automação com **Python**, microcontroladores e **Blockchain** para segurança de informação em contexto hospitalar.
-- A desenvolver **sistemas de multiagentes** para otimizar fluxos de trabalho em contexto da Saúde.
+- 🤖 A desenvolver **sistemas de multiagentes** para otimizar fluxos de trabalho em contexto da Saúde.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <summary><b>💻 Backend & Bases de Dados</b></summary>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-  <summary><b>♾️ DevOps & CI/CD</b></summary>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/ArgoCD-F34F29?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
-
-  <summary><b>🔒 Segurança (AppSec)</b></summary>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
-
-  <summary><b>🤖 IoT & Hardware</b></summary>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-
-  <summary><b>📋 Gestão & Colaboração</b></summary>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
-
----
-
-### 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krellz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krellz&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="150">
+  <a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
 </p>
 
----
+<summary><b>♾️ DevOps & CI/CD</b></summary>
+<p align="left">
+  <a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/ArgoCD-F34F29?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
+  </a>
+</p>
+
+<summary><b>🔒 Segurança (AppSec)</b></summary>
+<p align="left">
+  <a>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
+  </a>
+
+<summary><b>🤖 IoT & Hardware</b></summary>
+ <p align="left">
+  <a>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">  
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+  </a>
+</p>
+
+<summary><b>📋 Gestão & Colaboração</b></summary>
+ <p align="left">
+  <a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
+  </a>
+</p>
+
 
 ### 📫 Como me encontrar?
 
