@@ -3,9 +3,9 @@
   <img src="https://img.shields.io/badge/Perfil-Full--Stack%20%7C%20DevOps%20%7C%20AppSec-blue?style=for-the-badge" alt="Perfil">
 </p>
 
-Tenho uma licenciatura em **Reabilitação Psicomotora**, uma pós-graduação em **Psicomotricidade** e uma **Especialização em Perturbação em Espetro do Autismo** que me permitiram atuar em clínicas privadas e escolas como terapeuta durante vários anos.
+Tenho uma licenciatura em **Reabilitação Psicomotora**, uma pós-graduação em **Psicomotricidade** e uma **Especialização em Perturbação em Espetro do Autismo** que me permitiram atuar em clínicas e escolas como terapeuta durante vários anos. Terminei recentemente a minha segunda Licenciatura em **Engenharia Informática**. 
 
-Atualmente sou trabalhador-estudante e estou a terminar a licenciatura em **Engenharia Informática**. Gosto de criar soluções full-stack com foco em resolver problemas do dia a dia, especialmente na área da saúde.
+Gosto de criar soluções full stack com foco em resolver problemas do dia a dia, especialmente na área da saúde.
 
 Também tenho um grande interesse em DevOps, automação de infraestrutura, segurança de aplicações (AppSec) e Internet das Coisas (IoT).
 
