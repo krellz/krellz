@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Miguel 👋 <br/> Olá, sou o Miguel 👋
+# Hi, I'm Miguel 👋
 
 **Software Developer · Engenheiro Informático**
 
@@ -41,15 +41,6 @@ I like working across the stack, with a particular interest in **AI/agents, IoT 
 - **[bump]** — Continuous monitoring system for vital signs and fall indicators in pregnant women and the elderly, with real-time Telegram alerts.
 - **Other projects:** 41cause, Gadada, Smart Spot, Expressify, EchoBot.
 
-> Replace the `#` links above with the actual repo URLs once you paste this in.
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krellz&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krellz&layout=compact" />
-</p>
-
 ---
 
 ## 🇵🇹 Português
@@ -79,10 +70,3 @@ Gosto de trabalhar em todas as camadas da aplicação, com especial interesse em
 - **[amnesia-shh]** — Plataforma de partilha de dados encriptados, criada para adquirir experiência prática com Docker, Terraform, Kubernetes e ArgoCD.
 - **[bump]** — Sistema de monitorização contínua de sinais vitais e indicadores de queda em grávidas e idosos, com alertas em tempo real via Telegram.
 - **Outros projetos:** 41cause, Gadada, Smart Spot, Expressify, EchoBot.
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krellz&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krellz&layout=compact" />
-</p>
