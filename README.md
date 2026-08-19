@@ -1,103 +1,88 @@
-# Olá, eu sou o Miguel! 
-<p align="left">
-  <img src="https://img.shields.io/badge/Perfil-Full--Stack%20%7C%20DevOps%20%7C%20AppSec-blue?style=for-the-badge" alt="Perfil">
-</p>
+<div align="center">
 
-Tenho uma licenciatura em **Reabilitação Psicomotora**, uma pós-graduação em **Psicomotricidade** e uma **Especialização em Perturbação em Espetro do Autismo** que me permitiram atuar em clínicas e escolas como terapeuta durante vários anos. Terminei recentemente a minha segunda Licenciatura em **Engenharia Informática**. 
+# Hi, I'm Miguel 👋 <br/> Olá, sou o Miguel 👋
 
-Gosto de criar soluções full stack com foco em resolver problemas do dia a dia, especialmente na área da saúde.
+**Software Developer · Engenheiro Informático**
 
-Também tenho um grande interesse em DevOps, automação de infraestrutura, segurança de aplicações (AppSec) e Internet das Coisas (IoT).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-m-duarte)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig.duarte96@gmail.com)
 
-Gosto de construir soluções escaláveis, automatizar pipelines de deploy e garantir que o código nasce seguro. Recentemente, comecei a explorar Jira e Confluence para a gestão de projetos.
+**[🇬🇧 English](#-english)** · **[🇵🇹 Português](#-português)**
 
----
-
-### 🚀 O que ando a fazer?
-
-- 🎓 A terminar a licenciatura em **Engenharia Informática**.
-- 🛠️ A desenhar pipelines de CI/CD com **GitHub Actions** e GitOps com **ArgoCD**.
-- 🐳 A orquestrar aplicações em ambientes contentorizados com **Docker** e **Kubernetes**.
-- 🔒 A realizar análises e testes de vulnerabilidades em código com o **OWASP ZAP**.
-- 💡 A desenvolver projetos paralelos de automação com **Python**, microcontroladores e **Blockchain** para segurança de informação em contexto hospitalar.
-- 🤖 A desenvolver **sistemas de multiagentes** para otimizar fluxos de trabalho em contexto da Saúde.
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🇬🇧 English
 
-<summary><b>💻 Backend & Bases de Dados</b></summary>
-<p align="left">
-  <a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
+I'm a Computer Engineering graduate from Portugal with an unusual path into tech: before software, I spent several years working as a Clinical Psychomotor Therapist. That background shapes how I build things today: technically solid, with the person using it in mind and always trying to create new solutions that have real impact.
+
+I like working across the stack, with a particular interest in **AI/agents, IoT and cloud-native tooling**.
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 Featured Projects
+
+- **[SECTHIOS]** — Final-year project. Document encryption system with continuous IoT monitoring and immutable audit logs anchored on a private Blockchain network — proven end-to-end on a Raspberry Pi.
+- **[ResQ]** — Multi-agent emergency-response system. Built a custom RAG pipeline and compared two LLMs on retrieval performance; agents process audio, extract information, and surface relevant data in real time.
+- **[amnesia-shh]** — Encrypted data-sharing platform, built to get hands-on with Docker, Terraform, Kubernetes and ArgoCD.
+- **[bump]** — Continuous monitoring system for vital signs and fall indicators in pregnant women and the elderly, with real-time Telegram alerts.
+- **Other projects:** 41cause, Gadada, Smart Spot, Expressify, EchoBot.
+
+> Replace the `#` links above with the actual repo URLs once you paste this in.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krellz&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krellz&layout=compact" />
 </p>
 
-<summary><b>♾️ DevOps & CI/CD</b></summary>
-<p align="left">
-  <a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/ArgoCD-F34F29?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
-  </a>
-</p>
+---
 
-<summary><b>🔒 Segurança (AppSec)</b></summary>
-<p align="left">
-  <a>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
-  </a>
+## 🇵🇹 Português
 
-<summary><b>🤖 IoT & Hardware</b></summary>
- <p align="left">
-  <a>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">  
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-  </a>
-</p>
+Sou licenciado em Engenharia Informática com um percurso pouco comum até chegar à tecnologia: antes de mudar de área, trabalhei vários anos como Psicomotricista (terapeuta) em contexto clínico. Essa experiência molda a forma como construo software hoje: tecnicamente sólido, a pensar em quem o vai usar e a tentar encontrar soluções inovadoras que façam a diferença.
 
-<summary><b>📋 Gestão & Colaboração</b></summary>
- <p align="left">
-  <a>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
-  </a>
-</p>
+Gosto de trabalhar em todas as camadas da aplicação, com especial interesse em **IA/agentes, IoT e ferramentas cloud-native**.
 
+### 🛠️ Stack Tecnológica
 
-### 📫 Como me encontrar?
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/miguel-m-duarte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:miguel-duarte96@proton.me">
-    <img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=proton&logoColor=white" alt="Email">
-  </a>
+### 🚀 Projetos em Destaque
+
+- **[SECTHIOS]** — Projeto final de curso. Sistema de encriptação de documentos com monitorização contínua via IoT e logs de auditoria imutáveis ancorados numa rede Blockchain privada — validado de ponta a ponta num Raspberry Pi.
+- **[ResQ]** — Sistema multiagente de assistência à resposta a emergências. Construí um pipeline RAG próprio e comparei dois LLMs em desempenho; os agentes processam áudio, extraem informação e mostram dados relevantes em tempo real.
+- **[amnesia-shh]** — Plataforma de partilha de dados encriptados, criada para adquirir experiência prática com Docker, Terraform, Kubernetes e ArgoCD.
+- **[bump]** — Sistema de monitorização contínua de sinais vitais e indicadores de queda em grávidas e idosos, com alertas em tempo real via Telegram.
+- **Outros projetos:** 41cause, Gadada, Smart Spot, Expressify, EchoBot.
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krellz&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krellz&layout=compact" />
 </p>
