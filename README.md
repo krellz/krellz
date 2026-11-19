@@ -2,7 +2,7 @@
 
 # Hi, I'm Miguel 👋
 
-**Software Developer · Embedded Systems Engineer**
+**Developer · Embedded Systems Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-m-duarte)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig.duarte96@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-I'm a Computer Engineering graduate from Portugal with an unusual path into tech: before software, I spent several years working as a Clinical Psychomotor Therapist. That background shapes how I build things today: technically solid, with the person using it in mind and always trying to create new solutions that have real impact.
+Before software, i spent several years working as Therapist. That background shapes how i build things today: technically solid, with the person using it in mind and always trying to create new solutions that have real impact.
 
 I like working across the stack, with a particular interest in **AI/agents, IoT and cloud-native tooling**.
 
