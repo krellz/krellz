@@ -13,8 +13,6 @@
 
 Before software, i spent several years working as Therapist. That background shapes how i build things today: technically solid, with the person using it in mind and always trying to create new solutions that have real impact.
 
-I like working across the stack, with a particular interest in **AI/agents, IoT and cloud-native tooling**.
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
